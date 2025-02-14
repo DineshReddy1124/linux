@@ -1,0 +1,19 @@
+#!/bin/bash
+
+######
+# Author: Dinesh
+
+# To check the node health
+
+# Version: v1
+
+######
+
+df -h
+## to check dik size
+
+free -g
+## to check the memory size
+
+nrpoc
+## to check no.of cpu running

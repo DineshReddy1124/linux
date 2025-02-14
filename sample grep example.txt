@@ -1,0 +1,16 @@
+## create a file vi greptest.sh
+
+## data
+echo 1
+echo 11
+echo 111
+echo 12
+echo 22
+echo 49
+echo 69
+
+
+## chmod 777 greptest.sh ( to change permissions)
+
+## ./test.sh | grep 1 ( it list numbers with 1)
+

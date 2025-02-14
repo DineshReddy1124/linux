@@ -15,5 +15,5 @@ df -h
 free -g
 ## to check the memory size
 
-nrpoc
+nproc
 ## to check no.of cpu running

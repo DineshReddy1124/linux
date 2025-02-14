@@ -12,5 +12,5 @@ echo 69
 
 ## chmod 777 greptest.sh ( to change permissions)
 
-## ./test.sh | grep 1 ( it list numbers with 1)
+## ./greptest.sh | grep 1 ( it list numbers with 1)
 
